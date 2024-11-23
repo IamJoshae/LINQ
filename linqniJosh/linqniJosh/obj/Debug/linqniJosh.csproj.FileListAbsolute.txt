@@ -1,0 +1,7 @@
+C:\Users\Joshua\source\repos\linqniJosh\linqniJosh\obj\Debug\linqniJosh.csproj.AssemblyReference.cache
+C:\Users\Joshua\source\repos\linqniJosh\linqniJosh\obj\Debug\linqniJosh.csproj.CoreCompileInputs.cache
+C:\Users\Joshua\source\repos\linqniJosh\linqniJosh\bin\Debug\linqniJosh.exe.config
+C:\Users\Joshua\source\repos\linqniJosh\linqniJosh\bin\Debug\linqniJosh.exe
+C:\Users\Joshua\source\repos\linqniJosh\linqniJosh\bin\Debug\linqniJosh.pdb
+C:\Users\Joshua\source\repos\linqniJosh\linqniJosh\obj\Debug\linqniJosh.exe
+C:\Users\Joshua\source\repos\linqniJosh\linqniJosh\obj\Debug\linqniJosh.pdb
